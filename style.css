@@ -1,0 +1,28 @@
+github-infos {
+  display: block;
+  max-width: 300px;
+  padding: 1rem;
+  font-family: sans-serif;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+github-infos header a:first-child {
+  display: block;
+  font-weight: bolder;
+  font-size: 110%;
+}
+
+github-infos p {
+  font-size: 90%;
+  opacity: 0.8;
+}
+
+github-infos hr {
+  opacity: 0.5;
+}
+
+github-infos span {
+  font-size: 80%;
+  opacity: 0.6;
+  margin-right: 0.5rem;
+}
